@@ -21,13 +21,6 @@ Welcome to my **Memory Flip Game** – a fun browser-based card matching game bu
 - **CSS** – Styling with a dark theme
 - **JavaScript** – Game logic, flipping, timer, and move counter
 
----
-
-## 📸 Preview
-
-![Game Preview](https://raw.githubusercontent.com/Srijita627/Memory-Game/main/preview.png)
-
-> *(You can add a screenshot here from your local game if you haven’t pushed `preview.png` yet)*
 
 ---
 
